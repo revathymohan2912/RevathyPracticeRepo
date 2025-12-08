@@ -1,4 +1,3 @@
-
 public class ifElseLadder {
 
 	public static void main(String[] args) {
